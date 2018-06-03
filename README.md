@@ -1,1 +1,1 @@
-# EE3-Car
+Hello! This is the github repository for Kaleb-Cole Wood and Jonathan Nguyen's path following car for UCLA's Spring 2018 ECE 3 final project. Code will be updated here on a daily basis including bug fixes and new features. 
